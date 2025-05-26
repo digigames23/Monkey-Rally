@@ -1,7 +1,7 @@
 {
-  "name": "Monkey Rally*",
-  "short_name": "Monkey Rally*",
-  "description": "Monkey Rally* — a heroic monkey’s adventure to save the world using science!",
+  "name": "Monkey-Rally",
+  "short_name": "Monkey-Rally",
+  "description": "Monkey-Rally — a heroic monkey’s adventure to save the world using science!",
   "start_url": "/Monkey-Rally/scr/index.html",
   "scope": "/Monkey-Rally/scr/",
   "display": "standalone",
