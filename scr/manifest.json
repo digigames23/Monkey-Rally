@@ -1,24 +1,15 @@
 {
-  "background_color": "#ffffff",
-  "description": "An addictive science lab puzzle game where a monkey saves the day",
-  "dir": "ltr",
-  "display": "standalone",
-  "name": "Monkey Rally*",
-  "orientation": "any",
-  "scope": "/",
+  "name": "Monkey Rally**",
   "short_name": "Monkey Rally*",
-  "start_url": "/",
+  "description": "Monkey Rally* – a heroic monkey’s adventure to save the world using science!",
+  "start_url": "/Monkey-Rally/scr/index.html",
+  "scope": "/Monkey-Rally/scr/",
+  "display": "standalone",
+  "background_color": "#ffffff",
   "theme_color": "#ffffff",
-  "categories": [
-    "productivity"
-  ],
-  "screenshots": [
-    {
-      "src": "images/screenshot1.png",
-      "sizes": "1919x1024",
-      "type": "image/png"
-    }
-  ],
+  "orientation": "any",
+  "dir": "ltr",
+  "categories": ["puzzle", "adventure", "arcade"],
   "icons": [
     {
       "src": "images/icon-48x48.png",
@@ -46,11 +37,18 @@
       "purpose": "any"
     }
   ],
+  "screenshots": [
+    {
+      "src": "images/screenshot1.png",
+      "sizes": "1919x1024",
+      "type": "image/png"
+    }
+  ],
   "shortcuts": [
     {
-      "name": "Monkey Rally*",
-      "url": "",
-      "description": "An addictive science lab puzzle game where a monkey saves the day"
+      "name": "Start Game",
+      "url": "/Monkey-Rally/scr/index.html",
+      "description": "Launch the Monkey Rally* game"
     }
   ]
 }
